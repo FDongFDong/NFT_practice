@@ -1,0 +1,18 @@
+{
+  "name": "metadata",
+  "type": "module", 
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "nft.storage": "^6.3.0"
+  }
+}https://ipfs.io/ipfs//bafybeihnlevp3kga2fickesrtoqr2kkwzmfyp5o6nfuphuciym3hqcvxwq/temp.PNG
+ipfs.io/ipfs/ipfs://bafyreihvatm2exuguuiqx5azhnspavpyleuzrrnp2bbx76vhxixfb35wla/metadata.json
+https://bafybeihnlevp3kga2fickesrtoqr2kkwzmfyp5o6nfuphuciym3hqcvxwq/temp.PNG
